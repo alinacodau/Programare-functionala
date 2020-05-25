@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Interop", "Interop\Interop.fsproj", "{708A01D4-6BAC-48DC-9AB4-0DCB413FCB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLibrary", "CSharpLibrary\CSharpLibrary.csproj", "{4D6D4C9F-66B1-4B3E-9D54-0557CE5205F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708A01D4-6BAC-48DC-9AB4-0DCB413FCB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708A01D4-6BAC-48DC-9AB4-0DCB413FCB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708A01D4-6BAC-48DC-9AB4-0DCB413FCB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708A01D4-6BAC-48DC-9AB4-0DCB413FCB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6D4C9F-66B1-4B3E-9D54-0557CE5205F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6D4C9F-66B1-4B3E-9D54-0557CE5205F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6D4C9F-66B1-4B3E-9D54-0557CE5205F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6D4C9F-66B1-4B3E-9D54-0557CE5205F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

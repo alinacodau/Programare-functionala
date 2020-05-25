@@ -1,0 +1,5 @@
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\CSharpLibrary\bin\Debug\CSharpLibrary.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\CSharpLibrary\obj\Debug\CSharpLibrary.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\CSharpLibrary\obj\Debug\CSharpLibrary.pdb

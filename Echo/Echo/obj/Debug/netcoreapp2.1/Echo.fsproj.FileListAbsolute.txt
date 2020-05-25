@@ -1,0 +1,8 @@
+C:\Users\alina.codau\Desktop\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.deps.json
+C:\Users\alina.codau\Desktop\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.json
+C:\Users\alina.codau\Desktop\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.dev.json
+C:\Users\alina.codau\Desktop\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.dll
+C:\Users\alina.codau\Desktop\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.pdb
+C:\Users\alina.codau\Desktop\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.dll
+C:\Users\alina.codau\Desktop\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.pdb
+C:\Users\alina.codau\Desktop\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.fsprojAssemblyReference.cache

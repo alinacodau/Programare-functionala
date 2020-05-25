@@ -1,0 +1,10 @@
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\Interop.XML
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\Interop.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\Interop.pdb
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\CSharpLibrary.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\FSharp.Core.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\CSharpLibrary.pdb
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\bin\Debug\FSharp.Core.xml
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\obj\Debug\Interop.fsprojResolveAssemblyReference.cache
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\obj\Debug\Interop.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\Interop\Interop\obj\Debug\Interop.pdb

@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="primitives.fsx" />
+    <None Include="prefix-infix.fsx" />
+    <None Include="outparameterfunctions.fsx" />
+    <None Include="lambdas.fsx" />
+    <None Include="double_triple_pipe.fsx" />
+    <None Include="RequireQualifiedAccess.fsx" />
+    <None Include="query.fsx" />
+    <None Include="seq.fsx" />
+    <None Include="choice.fsx" />
+    <None Include="option.fsx" />
+    <None Include="patternmatching fizzbuzz.fsx" />
+    <None Include="use.fsx" />
+    <None Include="dotnetexceptions.fsx" />
+    <None Include="customexceptions.fsx" />
+    <None Include="tryfinally.fsx" />
+    <None Include="trywith.fsx" />
+    <Compile Include="Modules.fs" />
+    <Compile Include="B2.fs" />
+    <Compile Include="Namespaces.fs" />
+    <None Include="ComposerParsing.fsx" />
+    <None Include="Core_String.fsx" />
+    <None Include="string_indexing.fsx" />
+    <None Include="strings.fsx" />
+    <None Include="wave_packer.fsx" />
+    <None Include="signal_generator.fsx" />
+    <None Include="function_composition.fsx" />
+    <None Include="pipe_backward.fsx" />
+    <None Include="pipe_forward.fsx" />
+    <None Include="recursive_functions.fsx" />
+    <None Include="currying.fsx" />
+    <Compile Include="Printer.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FParsec" Version="1.1.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\ComposerReference.XML
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\ComposerReference.dll
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\ComposerReference.pdb
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsec.dll
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsecCS.dll
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\System.ValueTuple.dll
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsec.pdb
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsec.xml
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsecCS.pdb
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\FParsecCS.xml
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\bin\Debug\System.ValueTuple.xml
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\obj\Debug\ComposerReference.fsproj.CopyComplete
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\obj\Debug\ComposerReference.dll
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\obj\Debug\ComposerReference.pdb
+C:\Users\alina.codau\source\repos\Composer\ComposerReference\obj\Debug\ComposerReference.fsprojAssemblyReference.cache

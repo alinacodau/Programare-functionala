@@ -1,0 +1,6 @@
+C:\Users\alina.codau\source\repos\Composer\Composer\bin\Debug\netcoreapp2.1\Composer.deps.json
+C:\Users\alina.codau\source\repos\Composer\Composer\bin\Debug\netcoreapp2.1\Composer.dll
+C:\Users\alina.codau\source\repos\Composer\Composer\bin\Debug\netcoreapp2.1\Composer.pdb
+C:\Users\alina.codau\source\repos\Composer\Composer\obj\Debug\netcoreapp2.1\Composer.fsprojAssemblyReference.cache
+C:\Users\alina.codau\source\repos\Composer\Composer\obj\Debug\netcoreapp2.1\Composer.dll
+C:\Users\alina.codau\source\repos\Composer\Composer\obj\Debug\netcoreapp2.1\Composer.pdb
